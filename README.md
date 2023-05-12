@@ -1,4 +1,4 @@
-### Youtube Channel
+### <image src="/images/youtube_ico.png" alt="Descripción de la imagen"> Youtube Channel
 
 https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 
