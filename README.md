@@ -1,6 +1,13 @@
-### Hi there 👋
+![Miniatura de YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/512px-YouTube_social_white_squircle.svg.png) ### Youtube Channel
 
 https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
+
+
+|Columna 1|Columna 2|
+|--------|--------|
+|    A    |    B    |
+|    C    |    D    |
+
 
 <!--
 **NezziY/NezziY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
