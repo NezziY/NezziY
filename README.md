@@ -1,14 +1,20 @@
+# ✨ Vanessa Sánchez✨ 
+
+Programadora y Youtuber.
+Te invito a que visites mi página con muchos proyectos 3D. La sección de programación, está en pleno crecimiento. 🙋‍♀️
+
 ### <image src="/images/youtube_ico.png" alt="Descripción de la imagen"> Youtube Channel
 
 https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 
 
 |Knowledge|Columna 2|
-|--------|--------|
-|   HTML  |  B    |
-|   CCS   |  D    |
-|   Js    |     |
-|   React    |     |  
+|---------|--------|
+|  🟦HTML  |  B    |
+|  🟥CCS   |  D    |
+|  🟨Js    |     |
+|  ⚛React |     |  
+
 
 
 <!--
