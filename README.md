@@ -3,10 +3,12 @@
 https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 
 
-|Columna 1|Columna 2|
+|Knowledge|Columna 2|
 |--------|--------|
-|    A    |    B    |
-|    C    |    D    |
+|   HTML  |  B    |
+|   CCS   |  D    |
+|   Js    |     |
+|   React    |     |  
 
 
 <!--
