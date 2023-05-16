@@ -8,13 +8,12 @@ Te invito a que visites mi página con muchos proyectos 3D. La sección de progr
 https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 
 
-
-|Knowledge|    |Tools|          |Skils|
-|---------|    |--------|       |--------| 
-| 🟦HTML |     |  Figma |       |Inglés| 
-| 🟥CCS  |     |TwinMotion|     |    |
-| 🟨Js   |     |    |           |    |
-| ⚛React |     |    |           |    |   
+|Knowledge|Tools    |   Skils|
+|---------|--------|--------| 
+| 🟦HTML |  Figma |Inglés| 
+| 🟥CCS  |TwinMotion|    |
+| 🟨Js   |        |        |
+| ⚛React |        |      |   
 
 
 
