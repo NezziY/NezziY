@@ -16,7 +16,7 @@ https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 | ⚛React | INKSCAPE |        |   
 
 
-¡Hola! Soy una señora entusiasta del aprendizaje y me he embarcado en el emocionante viaje de dominar React y el desarrollo front-end. Me encanta sumergirme en los desafíos creativos que presenta la construcción de interfaces atractivas y funcionales.
+¡Hola! Soy entusiasta del aprendizaje y me he embarcado en el emocionante viaje de dominar React y el desarrollo front-end. Me encanta sumergirme en los desafíos creativos que presenta la construcción de interfaces atractivas y funcionales.
 
 💡 Mis puntos fuertes:
 
