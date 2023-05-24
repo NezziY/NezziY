@@ -16,19 +16,18 @@ https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 | ⚛React | INKSCAPE |        |   
 
 
+¡Hola! Soy una señora entusiasta del aprendizaje y me he embarcado en el emocionante viaje de dominar React y el desarrollo front-end. Me encanta sumergirme en los desafíos creativos que presenta la construcción de interfaces atractivas y funcionales.
 
+💡 Mis puntos fuertes:
 
-<!--
-**NezziY/NezziY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Aprendizaje rápido y entusiasmo por adquirir nuevas habilidades.
+*  Experiencia en HTML, CSS y JavaScript.
+* Conocimientos en React y su ecosistema, como React Router y Redux.
+* Habilidad para traducir diseños en aplicaciones web interactivas y receptivas.
+* Pasión por la usabilidad y la experiencia del usuario.
+  
+🌱 Actualmente, estoy explorando y expandiendo mis conocimientos en React. Estoy emocionada por sumergirme en proyectos desafiantes y trabajar en equipo para crear soluciones innovadoras. Me encantaría aprender de profesionales experimentados y contribuir en proyectos que tengan un impacto positivo.
 
-Here are some ideas to get you started:
+🚀 Siempre estoy buscando oportunidades para aprender, crecer y compartir conocimientos. ¡Conéctate conmigo y juntos exploremos el mundo del desarrollo front-end!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning REACT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Vamos a construir cosas increíbles juntos! ✨
