@@ -20,7 +20,6 @@ Me encanta sumergirme en los desafíos creativos que presenta la construcción d
 💡 Mis puntos fuertes:
 
 *  Experiencia en HTML, CSS y JavaScript.
-* Conocimientos en React y su ecosistema, como React Router y Redux.
 * Habilidad para traducir diseños en aplicaciones web interactivas y receptivas.
 * Pasión por la usabilidad y la experiencia del usuario.
   
