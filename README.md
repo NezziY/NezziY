@@ -10,7 +10,7 @@ https://www.youtube.com/channel/UCh7wBq4c5c16Dnb3oIN1lkA
 
 |Knowledge|Tools    |   Skills |
 |---------|--------|--------| 
-| 🟦HTML |  Figma   | Inglés | 
+| 🟦HTML |     | Inglés | 
 | 🟥CCS  |TwinMotion|        |
 | 🟨Js   |   GIMP   |        |
 | ⚛React | INKSCAPE |        |   
